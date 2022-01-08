@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://drewdalmedo.github.io/</loc>
+    <lastmod>2022-01-07T20:50:26-05:00</lastmod>
+  </url><url>
+    <loc>http://drewdalmedo.github.io/posts/</loc>
+    <lastmod>2022-01-07T20:50:26-05:00</lastmod>
+  </url><url>
+    <loc>http://drewdalmedo.github.io/posts/test-post/</loc>
+    <lastmod>2022-01-07T20:50:26-05:00</lastmod>
+  </url><url>
+    <loc>http://drewdalmedo.github.io/categories/</loc>
+  </url><url>
+    <loc>http://drewdalmedo.github.io/tags/</loc>
+  </url>
+</urlset>

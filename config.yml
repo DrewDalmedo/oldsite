@@ -3,3 +3,31 @@ languageCode: 'en-us'
 title: "Drew's Site"
 paginate: 5
 theme: "PaperMod"
+
+params:
+  env: production
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+    
+  comments: false
+
+
+profileMode:
+  enabled: false # required
+
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 10
+
+    - identifier: RSS
+      name: RSS
+      url: /index.xml/
+      weight: 10

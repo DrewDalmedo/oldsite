@@ -1,0 +1,5 @@
+baseURL: 'http://drewdalmedo.github.io/'
+languageCode: 'en-us'
+title: "Drew's Site"
+paginate: 5
+theme: "PaperMod"

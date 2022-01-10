@@ -29,5 +29,5 @@ menu:
 
     - identifier: RSS
       name: RSS
-      url: /index.xml/
+      url: /posts/index.xml
       weight: 10

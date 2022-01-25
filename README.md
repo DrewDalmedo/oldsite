@@ -1,5 +1,7 @@
 # My Personal Site
 
+This repo has been moved to my own personal git repo. The current version here is an archive.
+
 ## About
 
 My personal website. Contains a bunch of the stuff I'm working on, some info about me, and my favorite tools for SWE / general software development.
